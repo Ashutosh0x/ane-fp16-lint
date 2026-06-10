@@ -2,8 +2,14 @@
 
 **Detect silent fp16 overflow/underflow in Core ML models before they corrupt inference on Apple Neural Engine.**
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Read the Paper](https://img.shields.io/badge/Read_the_Paper-PDF-EC1C24.svg?logo=adobeacrobatreader&logoColor=white)](paper.pdf)
+
+[![Core ML](https://img.shields.io/badge/Core_ML-000000.svg?logo=apple&logoColor=white)](https://developer.apple.com/documentation/coreml)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-Neural_Engine-333333.svg?logo=apple&logoColor=white)](https://developer.apple.com/machine-learning/)
+[![IEEE 754](https://img.shields.io/badge/IEEE_754-FP16_Half_Precision-005A9C.svg)](https://en.wikipedia.org/wiki/Half-precision_floating-point_format)
 
 ## The Problem
 
